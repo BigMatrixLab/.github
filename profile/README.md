@@ -1,12 +1,12 @@
-# 🔬 Big-Matrix Lab
+# 🔬 Big-Matrix R&D Lab
 
-**Big-Matrix Lab** is a research-focused organization combining **Artificial Intelligence (AI), Big Data Analytics, and Biomedical Science** to accelerate scientific discovery and improve healthcare outcomes. We operate with a multidisciplinary team working across **machine learning, data science, and healthcare research** from **Dhaka, Bangladesh**.
+**Big-Matrix R&D Lab** is a research-focused organization combining **Artificial Intelligence (AI), Big Data Analytics, and Biomedical Science** to accelerate scientific discovery and improve healthcare outcomes. We operate with a multidisciplinary team working across **machine learning, data science, and healthcare research** from **Dhaka, Bangladesh**.
 
 ---
 
 ## 🚀 About Us
 
-Big-Matrix Lab is at the forefront of **AI-powered healthcare research and development**, with a mission to:
+Big-Matrix R&D Lab is at the forefront of **AI-powered healthcare research and development**, with a mission to:
 
 - Develop **advanced machine learning and deep learning models** for biomedical applications  
 - Build tools that accelerate **clinical and scientific imaging analysis**  
@@ -26,7 +26,9 @@ We lead original research projects that combine AI with biomedical science, focu
 - Medical imaging analysis systems  
 - AI-driven diagnostic tools  
 - Multidisciplinary scientific studies in health technology  
+
 ---
+
 ### 💻 Software & Tools
 We develop platforms and applications such as:
 
@@ -45,14 +47,13 @@ We develop platforms and applications such as:
 
 ## 🤝 Team & Collaboration
 
-Big-Matrix Lab brings together **researchers, data scientists, engineers, and domain experts** dedicated to advancing biomedical research using AI and data analytics.
+Big-Matrix R&D Lab brings together **researchers, data scientists, engineers, and domain experts** dedicated to advancing biomedical research using AI and data analytics.
 
 We actively welcome:
 
 - Academic collaborations  
 - Open-source contributors  
 - Industry research partnerships  
-
 
 ---
 
